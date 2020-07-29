@@ -17,4 +17,6 @@ Pero mientras pasaba el tiempo, **freddier** hizo cambios completamente distinto
 
 * Creado por Verena con ayuda del increíble equipo de Platzi Team
 
-*Debería incluir ejemplos en Windows, Linux y Mac
+* Debería incluir ejemplos en Windows, Linux y Mac
+
+* Disponible para todas las edades
