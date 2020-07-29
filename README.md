@@ -16,3 +16,5 @@ Pero mientras pasaba el tiempo, **freddier** hizo cambios completamente distinto
 2020-07-22 15:36:30 Wednesday
 
 * Creado por Verena con ayuda del increíble equipo de Platzi Team
+
+*Debería incluir ejemplos en Windows, Linux y Mac
