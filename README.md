@@ -14,3 +14,5 @@ Pero mientras pasaba el tiempo, **freddier** hizo cambios completamente distinto
 3. La otra forma es hacerlo desde github (online, sin usar la consola).
 
 2020-07-22 15:36:30 Wednesday
+
+* Creado por Verena con ayuda del increíble equipo de Platzi Team
